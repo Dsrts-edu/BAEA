@@ -105,7 +105,7 @@ diff = 0
 forPercent = votesFor / totalEST
 againstPercent = votesAgainst / totalEST
 
-
+# obtain vote difference 
 diff = returnDiff(votesFor, votesAgainst)
 
 print("Total Remaining EST      : %.2f" % totalEST)
@@ -122,7 +122,7 @@ totalFinalAgainst = totalOverallAgainst + votesAgainst
 finalForPercent = totalFinalFor / totalFinalVotes
 finalAgainstPercent = totalFinalAgainst / totalFinalVotes
 
-
+# obtain vote difference 
 diff = returnDiff(totalFinalFor, totalFinalAgainst)
 
 
@@ -132,28 +132,32 @@ print("Final For    : %.4f" % finalForPercent)
 print("Final Against: %.4f\n" % finalAgainstPercent)
 print("---------------------------- \n")
 
+# Test if user wants a pie graph
 
-#fig = plt.figure(figsize = (5, 10))
- 
-# creating the bar plot
-#plt.bar(['For', 'Against'], [totalFinalFor, totalFinalAgainst], color ='pink',
-        #width = 0.2)
- 
-#plt.xlabel("for or against")
-#plt.ylabel("Votes")
-#plt.title(propName)
-#plt.show()
+userin =  ''
+loops = 0
+while (userin != 'y') and (userin != 'n'):
+        if loops > 0:
+                print("Please only enter a \'y\' or an \'n\'")
+                if loops > 9:
+                        sys.exit("Too many invalid attempts, exiting")
+        userin = input("Would you like to see a pie graph? y/n: ").lower()
+        print(userin)
+        loops += 1
 
-labels = 'For','Against'
-sizes = [finalForPercent, finalAgainstPercent]
-explode = (0, 0, 0, 0)  # only "explode" the 2nd slice (i.e. 'Hogs')
+#Generate the pie graph 
 
-fig1, ax1 = plt.subplots()
-ax1.pie(sizes, explode = None, labels = labels, autopct='%1.1f%%',
-        shadow=True, startangle=90)
-ax1.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
-ax1.set_title("Prop " + propName + " estimated results")
+if userin == 'y':
+        labels = 'For','Against'
+        sizes = [finalForPercent, finalAgainstPercent]
+        explode = (0, 0, 0, 0)  # only "explode" the 2nd slice (i.e. 'Hogs')
 
-plt.show()
+        fig1, ax1 = plt.subplots()
+        ax1.pie(sizes, explode = None, labels = labels, autopct='%1.1f%%',
+                shadow=True, startangle=90)
+        ax1.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
+        ax1.set_title("Prop " + propName + " estimated results")
+
+        plt.show()
 
 
