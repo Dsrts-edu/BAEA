@@ -1,0 +1,116 @@
+csm-wl-dhcp-236-142:Estimator.py mike$ python3 est.py
+Enter filepath of analysis file: ./122-3.txt
+County: El_Paso
+        Total Estimated: 277079.27 
+        Est votes remaining: 49874.27 
+        For: 21445.94
+        Against: 28428.33
+
+County: Arapahoe
+        Total Estimated: 245046.05 
+        Est votes remaining: 58811.05 
+        For: 30581.75
+        Against: 28229.31
+
+County: Larimer
+        Total Estimated: 154095.56 
+        Est votes remaining: 15409.56 
+        For: 8321.16
+        Against: 7088.40
+
+County: Adams
+        Total Estimated: 162107.06 
+        Est votes remaining: 24316.06 
+        For: 13373.83
+        Against: 10942.23
+
+County: Denver
+        Total Estimated: 270352.00 
+        Est votes remaining: 135176.00 
+        For: 87864.40
+        Against: 47311.60
+
+County: Weld
+        Total Estimated: 130268.89 
+        Est votes remaining: 13026.89 
+        For: 5992.37
+        Against: 7034.52
+
+County: Boulder
+        Total Estimated: 157693.65 
+        Est votes remaining: 58346.65 
+        For: 37925.32
+        Against: 20421.33
+
+County: Garfield
+        Total Estimated: 25523.33 
+        Est votes remaining: 2552.33 
+        For: 1454.83
+        Against: 1097.50
+
+County: Elbert
+        Total Estimated: 12755.84 
+        Est votes remaining: 2933.84 
+        For: 968.17
+        Against: 1965.68
+
+County: Pitkin
+        Total Estimated: 11031.25 
+        Est votes remaining: 2206.25 
+        For: 1676.75
+        Against: 529.50
+
+County: Otero
+        Total Estimated: 6902.67 
+        Est votes remaining: 1725.67 
+        For: 621.24
+        Against: 1104.43
+
+County: Park
+        Total Estimated: 8828.07 
+        Est votes remaining: 3796.07 
+        For: 1860.07
+        Against: 1936.00
+
+County: San_Miguel
+        Total Estimated: 4070.21 
+        Est votes remaining: 244.21 
+        For: 192.93
+        Against: 51.28
+
+County: Costilla
+        Total Estimated: 1654.02 
+        Est votes remaining: 215.02 
+        For: 109.66
+        Against: 105.36
+
+County: Dolores
+        Total Estimated: 1274.19 
+        Est votes remaining: 89.19 
+        For: 36.57
+        Against: 52.62
+
+ESTIMATED REMAINING RESULTS:
+---------------------------- 
+
+Total votes    : 2010163
+Total for      : 1031983
+Total against  : 978179
+
+---------------------------- 
+
+Remaining votes for     : 212424.99
+Remaining votes against : 156298.08
+Total Remaining EST      : 368723.07
+Remaining Vote Difference: 56126.91
+Remaining For    : 0.5761
+Remaining Against: 0.4239
+
+---------------------------- 
+
+Total Final EST: 2378886.07
+Final Vote Difference: 109930.27
+Final For    : 0.5231
+Final Against: 0.4769
+
+---------------------------- 
