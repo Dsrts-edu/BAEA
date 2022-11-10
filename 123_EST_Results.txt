@@ -1,0 +1,90 @@
+County: El_Paso
+        Total Estimated: 276469.51 
+        Est votes remaining: 49764.51 
+        For: 22891.68
+        Against: 26872.84
+
+County: Arapahoe
+        Total Estimated: 245697.37 
+        Est votes remaining: 58967.37 
+        For: 32432.05
+        Against: 26535.32
+
+County: Larimer
+        Total Estimated: 153474.44 
+        Est votes remaining: 15347.44 
+        For: 8134.15
+        Against: 7213.30
+
+County: Adams
+        Total Estimated: 162248.24 
+        Est votes remaining: 24337.24 
+        For: 12898.73
+        Against: 11438.50
+
+County: Denver
+        Total Estimated: 271144.00 
+        Est votes remaining: 135572.00 
+        For: 92188.96
+        Against: 43383.04
+
+County: Weld
+        Total Estimated: 129957.78 
+        Est votes remaining: 12995.78 
+        For: 5328.27
+        Against: 7667.51
+
+County: Boulder
+        Total Estimated: 158822.22 
+        Est votes remaining: 58764.22 
+        For: 38784.39
+        Against: 19979.84
+
+County: Garfield
+        Total Estimated: 25343.33 
+        Est votes remaining: 2534.33 
+        For: 1267.17
+        Against: 1267.17
+
+County: Elbert
+        Total Estimated: 12737.66 
+        Est votes remaining: 2929.66 
+        For: 761.71
+        Against: 2167.95
+
+County: Pitkin
+        Total Estimated: 10971.25 
+        Est votes remaining: 2194.25 
+        For: 1514.03
+        Against: 680.22
+
+County: Park
+        Total Estimated: 8941.07 
+        Est votes remaining: 3934.07 
+        For: 1691.65
+        Against: 2242.42
+
+ESTIMATED REMAINING RESULTS:
+---------------------------- 
+
+Total votes    : 2009879
+Total for      : 1017765
+Total against  : 992113
+
+---------------------------- 
+
+Remaining votes for     : 217892.79
+Remaining votes against : 149448.09
+Total Remaining EST      : 367340.88
+Remaining Vote Difference: 68444.69
+Remaining For    : 0.5932
+Remaining Against: 0.4068
+
+---------------------------- 
+
+Total Final EST: 2377219.88
+Final Vote Difference: 94097.65
+Final For    : 0.5198
+Final Against: 0.4802
+
+---------------------------- 

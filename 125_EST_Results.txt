@@ -1,0 +1,97 @@
+Enter filepath of analysis file: ./125.txt
+County: El_Paso
+        Total Estimated: 277628.05 
+        Est votes remaining: 49973.05 
+        For: 23987.06
+        Against: 25985.99
+
+County: Arapahoe
+        Total Estimated: 243668.83 
+        Est votes remaining: 56043.83 
+        For: 27461.48
+        Against: 28582.35
+
+County: Larimer
+        Total Estimated: 155158.89 
+        Est votes remaining: 15515.89 
+        For: 8223.42
+        Against: 7292.47
+
+County: Adams
+        Total Estimated: 162927.06 
+        Est votes remaining: 24439.06 
+        For: 11486.36
+        Against: 12952.70
+
+County: Denver
+        Total Estimated: 270164.00 
+        Est votes remaining: 135082.00 
+        For: 62137.72
+        Against: 72944.28
+
+County: Weld
+        Total Estimated: 131417.78 
+        Est votes remaining: 13141.78 
+        For: 6965.14
+        Against: 6176.64
+
+County: Boulder
+        Total Estimated: 159398.41 
+        Est votes remaining: 58977.41 
+        For: 30668.25
+        Against: 28309.16
+
+County: Garfield
+        Total Estimated: 25631.11 
+        Est votes remaining: 2563.11 
+        For: 1409.71
+        Against: 1153.40
+
+County: Elbert
+        Total Estimated: 12682.05 
+        Est votes remaining: 2790.05 
+        For: 1478.73
+        Against: 1311.32
+
+County: Pitkin
+        Total Estimated: 11020.00 
+        Est votes remaining: 2204.00 
+        For: 1146.08
+        Against: 1057.92
+
+County: Park
+        Total Estimated: 8892.98 
+        Est votes remaining: 3823.98 
+        For: 1950.23
+        Against: 1873.75
+
+County: Saguache
+        Total Estimated: 2678.95 
+        Est votes remaining: 133.95 
+        For: 70.99
+        Against: 62.96
+
+ESTIMATED REMAINING RESULTS:
+---------------------------- 
+
+Total votes    : 2023089
+Total for      : 1014848
+Total against  : 1008240
+
+---------------------------- 
+
+Remaining votes for     : 176985.18
+Remaining votes against : 187702.93
+Total Remaining EST      : 364688.11
+Remaining Vote Difference: 10717.75
+Remaining For    : 0.4853
+Remaining Against: 0.5147
+
+---------------------------- 
+
+Total Final EST: 2387777.11
+Final Vote Difference: 4109.25
+Final For    : 0.4991
+Final Against: 0.5009
+
+---------------------------- 
